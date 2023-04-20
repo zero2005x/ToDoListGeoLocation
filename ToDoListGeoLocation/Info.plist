@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy - Location When In Use Usage Description: Your app needs access to your location in order to provide location-based services.</key>
+	<string>用戶要記錄所在位置</string>
+</dict>
+</plist>

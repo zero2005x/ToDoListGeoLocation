@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "quotekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rryam/QuoteKit",
+      "state" : {
+        "revision" : "c16aa6055bf37741112d265ee2aa9a2b6616332d",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swiftlintplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lukepistrol/SwiftLintPlugin",
+      "state" : {
+        "revision" : "f3586ed424d7bf5d94628332fbd0edebf1f5147f",
+        "version" : "0.2.3"
+      }
+    }
+  ],
+  "version" : 2
+}
